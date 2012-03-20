@@ -4,6 +4,20 @@
 [[!toc]]
 
 
+## Introduction
+
+The project is focused on development of a specialized solver for a 
+quadratic model predictive control problem, and a software module, 
+which uses this solver to control walking behavior of a 
+[[Nao|http://www.aldebaran-robotics.com]] humanoid robot.
+
+The development has been performed within the
+[[Mobile Robotics and Olfaction Lab |http://www.aass.oru.se/Research/Learning/index.html]]
+at &Ouml;rebro University under the supervision of Dimitar Dimitrov 
+(<http://www.drdv.net>).
+
+
+
 ## Source code and documentation
 
 * The Nao module:  
@@ -39,6 +53,7 @@ Alternatively, you can watch the videos on YouTube:
 <http://www.youtube.com/playlist?list=PL93B16B2910EC7F3D&feature=plcp>
 
 
+
 ## Publications
 
 * [[!bibtex file=".biblio.bib" key="conf/iros/DimitrovSW11" format="citation"]]
@@ -49,17 +64,9 @@ Alternatively, you can watch the videos on YouTube:
 """]] 
 
 
-## Links
 
-The homepage of Dimitar Dimitrov, supervisor of this project:  
-<http://www.roboresearch.net/>
+## Other
 
-Mobile Robotics and Olfaction Lab at &Ouml;rebro University:  
-<http://www.aass.oru.se/Research/Learning/index.html>
-
-Aldebaran Robotics, the company, which produces Nao:  
-<http://aldebaran-robotics.com/>
-
-A simple Nao module, that was used to collect data while a robot is walking using
+A simple Nao module, that was used to collect data while a robot is controlled by
 the original walking module included in the standard software:  
 <https://github.com/asherikov/nao_spy>
