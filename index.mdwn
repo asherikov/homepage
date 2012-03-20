@@ -1,0 +1,3 @@
+[[!meta title="News"]]
+
+[[!inline pages="page(./news/*)" show="10" archive=yes]]
