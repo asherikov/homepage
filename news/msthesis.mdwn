@@ -1,0 +1,3 @@
+[[!meta title="Uploaded MS thesis. Updated project page of Nao walking module."]]
+
+See [[this page|Projects/naowalk]].
