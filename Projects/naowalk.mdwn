@@ -1,4 +1,5 @@
 [[!meta title="Nao walking module"]]
+[[!meta description="Nao walking module"]]
 
 **Contents**
 [[!toc]]
@@ -184,9 +185,9 @@ Solution of inverse kinematics takes from 1 to 3 iterations.
 ---
 ## Publications
 
-* [[!bibtex file=".biblio.bib" key="Dimitrov-IROS11" format="citation"]]
+* [[!bibtex file=".biblio.bib" key="Dimitrov2011iros" format="citation"]]
 [[(preprint)|http://www.aass.oru.se/Research/Learning/drdv_dir/publications/iros11/iros11_1.html]]
 [[!toggle id="bibtexentry" text="(bibtex)"]]
 [[!toggleable id="bibtexentry" text="""
-[[!bibtex file=".biblio.bib" key="Dimitrov-IROS11" format="raw"]]
+[[!bibtex file=".biblio.bib" key="Dimitrov2011iros" format="raw"]]
 """]] 

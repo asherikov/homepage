@@ -1,3 +1,74 @@
-[[!meta title="News"]]
+[[!meta title="Alexander Sherikov"]]
+[[!meta description="Home"]]
 
-[[!inline pages="page(./news/*)" show="10" archive=yes]]
+[[!toc levels=2 startlevel=1]]
+
+
+About
+=====
+
+
+Currently, I am a PhD student at [[BIPOP|http://bipop.inrialpes.fr/]] team (INRIA, Greboble, France),
+where I am working on control of humanoid robots
+under supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]
+and [[Dimitar Dimitrov|http://drdv.net/index.html]].
+I obtained my master's degree from
+[[Örebro University|http://oru.se]] in 2012. The subject of the master's thesis was model
+predictive control of a humanoid robot, refer to [[this page|Projects/naowalk]] for more 
+information. After gradutation I participated in 
+[[SAUNA project|http://www.oru.se/English/Research/Research-Subjects/NT/Computer-Science/Computer-Science/Forskningsprojekt-inom-Datavetenskap/Forskningsprojekt-inom-Datavetenskap/?rdb=693]]
+at Örebro University as a developer of a trajectory tracking controller for an autonomous forklift truck.
+
+Contacts
+--------
+
+<table border="0">
+<tr>
+    <td>E-mail:</td>
+    <td>asherikov {at} yandex.com</td>
+</tr>
+<tr>
+    <td></td>
+    <td>alexander.sherikov {at} inria.fr</td>
+</tr>
+<tr>
+    <td>XMPP (Gmail compatible):</td>
+    <td>asherikov {at} jabber.ru</td>
+</tr>
+</table>
+
+---
+
+Publications
+============
+
+Under review
+------------
+
+* [[!template  id=bibitem.tmpl key="Dimitrov2015tro" pdf="https://hal.inria.fr/hal-01183003/file/drdv_tro.pdf" more="https://hal.inria.fr/hal-01183003"]]
+
+
+
+Journals & Conferences
+----------------------
+
+### 2015
+
+* [[!template  id=bibitem.tmpl key="Andreasson2015ram" pdf="http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&tp=&arnumber=7059356"]]
+
+
+### 2014
+
+* [[!template  id=bibitem.tmpl key="Sherikov2014humanoids" pdf="http://drdv.net/pdf/humanoids14.pdf"]]
+
+
+### 2011
+
+* [[!template  id=bibitem.tmpl key="Dimitrov2011iros" pdf="http://drdv.net/pdf/iros11_1.pdf" more="Projects/naowalk"]]
+
+
+
+Theses
+------
+
+* [[!template  id=bibitem.tmpl key="Sherikov2012master" pdf="http://asherikov.github.com/files/asherikov-ms-thesis.pdf" more="Projects/naowalk"]]

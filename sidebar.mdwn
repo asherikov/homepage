@@ -1,6 +1,6 @@
 **Sitemap**
 
-[[!map  pages="(projects or projects/*) or index" show=title]]
+[[!map  pages="(projects or projects/*) or index or software/*" show=description]]
 
 
 **Contact**

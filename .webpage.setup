@@ -6,9 +6,13 @@
 # wrappers and build the wiki.
 # 
 # Remember to re-run ikiwiki --setup any time you edit this file.
+#
+# Requirements
+#   p5-Text-BibTeX
+#
 use IkiWiki::Setup::Standard {
     # name of the wiki
-    wikiname => 'A. Sherikov',
+    wikiname => 'Alexander Sherikov',
     # contact email for wiki
 #    adminemail => 'aleks@local.local',
     # users who are wiki admins
@@ -30,12 +34,13 @@ use IkiWiki::Setup::Standard {
     # rcs backend to use
 #    rcs => 'git',
     # plugins to add to the default configuration
-    add_plugins => [qw{img map table toc color inline sidebar teximg bibtex theme toggle}],
+    add_plugins => [qw{img map table toc color inline sidebar teximg bibtex theme toggle template}],
 #    add_plugins => [qw{goodstuff websetup}],
     # plugins to disable
     disable_plugins => [qw{openid recentchanges editpage htmlscrubber}],
     # additional directory to search for template files
-    templatedir => '/dev/null',
+#    templatedir => '/dev/null',
+    templatedir => './.templates/',
     # base wiki source location
     underlaydir => '/dev/null',
     # display verbose messages?
@@ -53,7 +58,7 @@ use IkiWiki::Setup::Standard {
     # name of Discussion pages
     discussionpage => 'Discussion',
     # generate HTML5? (experimental)
-    html5 => 0,
+    html5 => 1,
     # only send cookies over SSL connections?
     sslcookie => 0,
     # extension to use for new pages
@@ -68,7 +73,7 @@ use IkiWiki::Setup::Standard {
     # put user pages below specified page
     userdir => '',
     # how many backlinks to show before hiding excess (0 to show all)
-    numbacklinks => 10,
+    numbacklinks => -1,
     # attempt to hardlink source files? (optimisation for large files)
     hardlink => 0,
     # force ikiwiki to use a particular umask
@@ -76,7 +81,7 @@ use IkiWiki::Setup::Standard {
     # group for wrappers to run in
     #wrappergroup => 'ikiwiki',
     # extra library and plugin directory
-    libdir => '/home/aleks/.ikiwiki',
+    libdir => './.plugins',
     # environment variables
     ENV => {},
     # time zone name
@@ -84,7 +89,7 @@ use IkiWiki::Setup::Standard {
     # regexp of normally excluded files to include
     #include => '^\\.htaccess$',
     # regexp of files that should be skipped
-    #exclude => '^(*\\.private|Makefile)$',
+    exclude => '^Makefile$',
     # specifies the characters that are allowed in source filenames
     wiki_file_chars => '-[:alnum:]+/.:_',
     # allow symlinks in the path leading to the srcdir (potentially insecure)

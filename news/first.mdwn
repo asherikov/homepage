@@ -1,3 +1,0 @@
-[[!meta title="Added description of the walking module for Nao"]]
-
-See [[this page|Projects/naowalk]].
