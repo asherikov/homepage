@@ -63,14 +63,14 @@ Journals & Conferences
     pdf="http://drdv.net/pdf/humanoids15_2.pdf"
     video="yes"
     video_link="http://drdv.net/video/humanoids15_2.mp4"
-    video_youtube="https://www.youtube.com/embed/ynLDk7jhxko"]]
+    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X1gMyV-C-KlEhcImIG0-nC"]]
 
 * [[!template  id=bibitem.tmpl 
     key="Sherikov2015humanoids"
     pdf="http://drdv.net/pdf/humanoids15_1.pdf"
     video="yes"
     video_link="http://drdv.net/video/humanoids15_1.mp4"
-    video_youtube="https://www.youtube.com/embed/9iPCcaQbKuU"]]
+    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X8e6pyybmLv2RP-Y5Mynwo"]]
 
 
 ### 2014
@@ -79,7 +79,7 @@ Journals & Conferences
     key="Sherikov2014humanoids" 
     pdf="http://drdv.net/pdf/humanoids14.pdf"
     video="yes"
-    video_youtube="https://www.youtube.com/embed/wjlBsn_deHU"
+    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9XlnWY9EhExe-t2Kp537JLn"
     video_link="http://drdv.net/video/humanoids14.mp4"]]
 
 
