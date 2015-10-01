@@ -32,7 +32,7 @@ Contacts
     <td>alexander.sherikov {at} inria.fr</td>
 </tr>
 <tr>
-    <td>XMPP (Gmail compatible):</td>
+    <td>XMPP:</td>
     <td>asherikov {at} jabber.ru</td>
 </tr>
 </table>
@@ -54,21 +54,50 @@ Journals & Conferences
 
 ### 2015
 
-* [[!template  id=bibitem.tmpl key="Andreasson2015ram" pdf="http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&tp=&arnumber=7059356"]]
+* [[!template  id=bibitem.tmpl 
+    key="Andreasson2015ram" 
+    pdf="http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&tp=&arnumber=7059356"]]
+
+* [[!template  id=bibitem.tmpl 
+    key="Brasseur2015humanoids"
+    pdf="http://drdv.net/pdf/humanoids15_2.pdf"
+    video="yes"
+    video_link="http://drdv.net/video/humanoids15_2.mp4"
+    video_youtube="https://www.youtube.com/embed/ynLDk7jhxko"]]
+
+* [[!template  id=bibitem.tmpl 
+    key="Sherikov2015humanoids"
+    pdf="http://drdv.net/pdf/humanoids15_1.pdf"
+    video="yes"
+    video_link="http://drdv.net/video/humanoids15_1.mp4"
+    video_youtube="https://www.youtube.com/embed/9iPCcaQbKuU"]]
 
 
 ### 2014
 
-* [[!template  id=bibitem.tmpl key="Sherikov2014humanoids" pdf="http://drdv.net/pdf/humanoids14.pdf"]]
+* [[!template  id=bibitem.tmpl 
+    key="Sherikov2014humanoids" 
+    pdf="http://drdv.net/pdf/humanoids14.pdf"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/wjlBsn_deHU"
+    video_link="http://drdv.net/video/humanoids14.mp4"]]
 
 
 ### 2011
 
-* [[!template  id=bibitem.tmpl key="Dimitrov2011iros" pdf="http://drdv.net/pdf/iros11_1.pdf" more="Projects/naowalk"]]
+* [[!template  id=bibitem.tmpl 
+    key="Dimitrov2011iros" 
+    pdf="http://drdv.net/pdf/iros11_1.pdf" 
+    more="Projects/naowalk"]]
 
 
 
 Theses
 ------
 
-* [[!template  id=bibitem.tmpl key="Sherikov2012master" pdf="http://asherikov.github.com/files/asherikov-ms-thesis.pdf" more="Projects/naowalk"]]
+* [[!template id=bibitem.tmpl 
+    key="Sherikov2012master" 
+    pdf="http://asherikov.github.com/files/asherikov-ms-thesis.pdf" 
+    video="yes"
+    video_youtube="http://www.youtube.com/embed/videoseries?list=PL93B16B2910EC7F3D&amp;hl=en_US"
+    more="Projects/naowalk"]]
