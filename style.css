@@ -637,3 +637,7 @@ div.recentchanges {
  padding: 0 0 0 2ex;
  border-color: #999;
 }
+
+table {
+    border: 0px;
+}

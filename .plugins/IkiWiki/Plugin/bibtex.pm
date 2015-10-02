@@ -113,7 +113,8 @@ sub bibtex_preprocess {
 	 } elsif ( $output_format eq "cite"){
 		  $output=format_cite( $entry );
 	 } else {
-		  $output="<pre id='bibtex_entry'>".$entry->print_s."</pre>";
+		  $output="<pre>".$entry->print_s."</pre>";
+#		  $output="<pre id='bibtex_entry'>".$entry->print_s."</pre>";
 	 }
 
 	 $bibtex_keys{$page}{$key}=$bibtex_file;

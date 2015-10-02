@@ -4,15 +4,19 @@
 [[!toggleable id="<TMPL_VAR raw_key>" text="""
 [[!bibtex file=".biblio.bib" key="<TMPL_VAR raw_key>" format="raw"]]
 """]]
+<TMPL_IF video>
 [[!toggleable id="<TMPL_VAR raw_key>_video" text="""
+<blockquote>
 <TMPL_IF video_youtube>
 <iframe width="560" height="315"
 src="<TMPL_VAR raw_video_youtube>"
-frameborder="0" allowfullscreen>
+allowfullscreen>
 </iframe>
 </TMPL_IF>
+<br />
 <TMPL_IF video_link>
 [[Download video: <TMPL_VAR raw_video_link>|<TMPL_VAR raw_video_link>]]
 </TMPL_IF>
+</blockquote>
 """]]
-
+</TMPL_IF>

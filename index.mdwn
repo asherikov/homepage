@@ -22,7 +22,7 @@ at Örebro University as a developer of a trajectory tracking controller for an 
 Contacts
 --------
 
-<table border="0">
+<table>
 <tr>
     <td>E-mail:</td>
     <td>asherikov {at} yandex.com</td>
