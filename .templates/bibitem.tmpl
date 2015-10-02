@@ -2,7 +2,9 @@
 [[!toggle id="<TMPL_VAR raw_key>" text="(bibtex)"]]
  <TMPL_IF pdf>[[(pdf)|<TMPL_VAR raw_pdf>]]</TMPL_IF> <TMPL_IF video>[[!toggle id="<TMPL_VAR raw_key>_video" text="(video)"]]</TMPL_IF>  <TMPL_IF more> [[(more)|<TMPL_VAR raw_more>]]</TMPL_IF>
 [[!toggleable id="<TMPL_VAR raw_key>" text="""
+<blockquote>
 [[!bibtex file=".biblio.bib" key="<TMPL_VAR raw_key>" format="raw"]]
+</blockquote>
 """]]
 <TMPL_IF video>
 [[!toggleable id="<TMPL_VAR raw_key>_video" text="""

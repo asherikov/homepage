@@ -45,8 +45,15 @@ Publications
 Under review
 ------------
 
-* [[!template  id=bibitem.tmpl key="Dimitrov2015tro" pdf="https://hal.inria.fr/hal-01183003/file/drdv_tro.pdf" more="https://hal.inria.fr/hal-01183003"]]
+* [[!template  id=bibitem.tmpl 
+    key="Dimitrov2015tro" 
+    pdf="https://hal.inria.fr/hal-01183003/file/drdv_tro.pdf" 
+    more="https://hal.inria.fr/hal-01183003"]]
 
+* [[!template  id=bibitem.tmpl 
+    key="Agravante2015" 
+    pdf="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01202222/file/agravante_ICRA16_0604_MS.pdf" 
+    more="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01202222"]]
 
 
 Journals & Conferences
