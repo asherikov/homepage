@@ -28,10 +28,6 @@ Contacts
     <td>asherikov {at} yandex.com</td>
 </tr>
 <tr>
-    <td></td>
-    <td>alexander.sherikov {at} inria.fr</td>
-</tr>
-<tr>
     <td>XMPP:</td>
     <td>asherikov {at} jabber.ru</td>
 </tr>
@@ -49,9 +45,15 @@ Under review
 ------------
 
 * [[!template  id=bibitem.tmpl
-    key="Dimitrov2015tro"
+    key="Dimitrov2015preprint"
     pdf="https://hal.inria.fr/hal-01183003/file/drdv_tro.pdf"
     more="https://hal.inria.fr/hal-01183003"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Agravante2016preprint"
+    pdf="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154/file/2015-ijrr-agravante.pdf"
+    more="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154"]]
+
 
 
 Journals & Conferences
