@@ -7,17 +7,16 @@
 About
 =====
 
+Currently, I am a research engineer at [[BIPOP|http://bipop.inrialpes.fr/]]
+team (INRIA, Greboble, France), where I am working on software for robot
+control. I obtained my PhD and MS degrees in control of humanoid robots under
+supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]
+and [[Dimitar Dimitrov|http://drdv.net/index.html]] respectively. My general
+interests are in robotics, control, and optimization.
 
-Currently, I am a PhD student at [[BIPOP|http://bipop.inrialpes.fr/]] team (INRIA, Greboble, France),
-where I am working on control of humanoid robots
-under supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]
-and [[Dimitar Dimitrov|http://drdv.net/index.html]].
-I obtained my master's degree from
-[[Örebro University|http://oru.se]] in 2012. The subject of the master's thesis was model
-predictive control of a humanoid robot, refer to [[this page|Projects/naowalk]] for more
-information. After gradutation I participated in
-[[SAUNA project|http://www.oru.se/English/Research/Research-Subjects/NT/Computer-Science/Computer-Science/Forskningsprojekt-inom-Datavetenskap/Forskningsprojekt-inom-Datavetenskap/?rdb=693]]
-at Örebro University as a developer of a trajectory tracking controller for an autonomous forklift truck.
+Further information on my working experience can be found on my [[Linkedin
+page|http://www.linkedin.com/in/asherikov]].
+
 
 Contacts
 --------
@@ -62,7 +61,8 @@ Journals & Conferences
 ### 2016
 
 * [[!template  id=bibitem.tmpl
-    key="alHomsi2016icra"]]
+    key="alHomsi2016icra"
+    pdf="http://drdv.net/pdf/icra16.pdf"]]
 
 * [[!template  id=bibitem.tmpl
     key="Agravante2016icra"
@@ -70,6 +70,12 @@ Journals & Conferences
     video="yes"
     video_youtube="https://www.youtube.com/embed/btAwS9RDcSA"
     more="https://hal.archives-ouvertes.fr/hal-01274791"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Serra2016humanoids"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Bohorquez2016humanoids"]]
 
 
 ### 2015
@@ -115,11 +121,11 @@ Journals & Conferences
 Theses
 ------
 
-* [[!template id=bibitem.tmpl
+* PhD: [[!template id=bibitem.tmpl
     key="Sherikov2016phd"
     pdf="files/asherikov-phd-thesis.pdf"]]
 
-* [[!template id=bibitem.tmpl
+* MS: [[!template id=bibitem.tmpl
     key="Sherikov2012master"
     pdf="files/asherikov-ms-thesis.pdf"
     video="yes"
