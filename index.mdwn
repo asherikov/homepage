@@ -73,11 +73,13 @@ Journals & Conferences
 
 * [[!template  id=bibitem.tmpl
     key="Serra2016humanoids"
+    pdf="http://drdv.net/pdf/humanoids16_2.pdf"
     video="yes"
     video_youtube="https://www.youtube.com/embed/NSDiSRPnxZ0"]]
 
 * [[!template  id=bibitem.tmpl
-    key="Bohorquez2016humanoids"]]
+    key="Bohorquez2016humanoids"
+    pdf="http://drdv.net/pdf/humanoids16_1.pdf"]]
 
 
 ### 2015
