@@ -51,8 +51,14 @@ Under review
 * [[!template  id=bibitem.tmpl
     key="Agravante2016preprint"
     pdf="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154/file/2015-ijrr-agravante.pdf"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/VYwZU4_7sMA"
     more="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154"]]
 
+* [[!template  id=bibitem.tmpl
+    key="Wieber2017gnfm"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/hxSb5K_IUZ8"]]
 
 
 Journals & Conferences
@@ -75,11 +81,14 @@ Journals & Conferences
     key="Serra2016humanoids"
     pdf="http://drdv.net/pdf/humanoids16_2.pdf"
     video="yes"
-    video_youtube="https://www.youtube.com/embed/NSDiSRPnxZ0"]]
+    video_youtube="https://www.youtube.com/embed/NSDiSRPnxZ0"
+    video_link="http://drdv.net/video/humanoids16_2.mp4"]]
 
 * [[!template  id=bibitem.tmpl
     key="Bohorquez2016humanoids"
-    pdf="http://drdv.net/pdf/humanoids16_1.pdf"]]
+    pdf="http://drdv.net/pdf/humanoids16_1.pdf"
+    video="yes"
+    video_link="http://drdv.net/video/humanoids16_1.mp4"]]
 
 
 ### 2015
