@@ -57,6 +57,7 @@ Under review
 
 * [[!template  id=bibitem.tmpl
     key="Wieber2017gnfm"
+    pdf="https://hal.inria.fr/hal-01418462/document"
     video="yes"
     video_youtube="https://www.youtube.com/embed/hxSb5K_IUZ8"]]
 
@@ -68,7 +69,7 @@ Journals & Conferences
 
 * [[!template  id=bibitem.tmpl
     key="alHomsi2016icra"
-    pdf="http://drdv.net/pdf/icra16.pdf"]]
+    pdf="https://hal.inria.fr/hal-01418396/document"]]
 
 * [[!template  id=bibitem.tmpl
     key="Agravante2016icra"
@@ -79,14 +80,14 @@ Journals & Conferences
 
 * [[!template  id=bibitem.tmpl
     key="Serra2016humanoids"
-    pdf="http://drdv.net/pdf/humanoids16_2.pdf"
+    pdf="https://hal.inria.fr/hal-01418402/document"
     video="yes"
     video_youtube="https://www.youtube.com/embed/NSDiSRPnxZ0"
     video_link="http://drdv.net/video/humanoids16_2.mp4"]]
 
 * [[!template  id=bibitem.tmpl
     key="Bohorquez2016humanoids"
-    pdf="http://drdv.net/pdf/humanoids16_1.pdf"
+    pdf="https://hal.inria.fr/hal-01418340/document"
     video="yes"
     video_link="http://drdv.net/video/humanoids16_1.mp4"]]
 
@@ -99,14 +100,14 @@ Journals & Conferences
 
 * [[!template  id=bibitem.tmpl
     key="Brasseur2015humanoids"
-    pdf="http://drdv.net/pdf/humanoids15_2.pdf"
+    pdf="https://hal.inria.fr/hal-01418355/document"
     video="yes"
     video_link="http://drdv.net/video/humanoids15_2.mp4"
     video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X1gMyV-C-KlEhcImIG0-nC"]]
 
 * [[!template  id=bibitem.tmpl
     key="Sherikov2015humanoids"
-    pdf="http://drdv.net/pdf/humanoids15_1.pdf"
+    pdf="https://hal.inria.fr/hal-01418358/document"
     video="yes"
     video_link="http://drdv.net/video/humanoids15_1.mp4"
     video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X8e6pyybmLv2RP-Y5Mynwo"]]
@@ -116,7 +117,7 @@ Journals & Conferences
 
 * [[!template  id=bibitem.tmpl
     key="Sherikov2014humanoids"
-    pdf="http://drdv.net/pdf/humanoids14.pdf"
+    pdf="https://hal.inria.fr/hal-01418363/document"
     video="yes"
     video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9XlnWY9EhExe-t2Kp537JLn"
     video_link="http://drdv.net/video/humanoids14.mp4"]]
