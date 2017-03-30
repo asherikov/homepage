@@ -8,7 +8,7 @@ About
 =====
 
 Currently, I am a research engineer at [[BIPOP|http://bipop.inrialpes.fr/]]
-team (INRIA, Greboble, France), where I am working on software for robot
+team (INRIA, Grenoble, France), where I am working on software for robot
 control. I obtained my PhD and MS degrees in control of humanoid robots under
 supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]
 and [[Dimitar Dimitrov|http://drdv.net/index.html]] respectively. My general
