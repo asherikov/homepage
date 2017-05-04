@@ -55,15 +55,18 @@ Under review
     video_youtube="https://www.youtube.com/embed/VYwZU4_7sMA"
     more="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154"]]
 
+
+Journals & Conferences
+----------------------
+
+### 2017
+
 * [[!template  id=bibitem.tmpl
     key="Wieber2017gnfm"
     pdf="https://hal.inria.fr/hal-01418462/document"
     video="yes"
     video_youtube="https://www.youtube.com/embed/hxSb5K_IUZ8"]]
 
-
-Journals & Conferences
-----------------------
 
 ### 2016
 
