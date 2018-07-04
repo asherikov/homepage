@@ -7,9 +7,8 @@
 About
 =====
 
-Currently, I am a research engineer at [[BIPOP|http://bipop.inrialpes.fr/]]
-team (INRIA, Grenoble, France), where I am working on software for robot
-control. I obtained my PhD and MS degrees in control of humanoid robots under
+Currently, I am a software/control engineer at [[PAL Robotics|http://pal-robotics.com/en/home/]].
+I obtained my PhD and MS degrees in control of humanoid robots under
 supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]
 and [[Dimitar Dimitrov|http://drdv.net/index.html]] respectively. My general
 interests are in robotics, control, and optimization.
@@ -25,10 +24,6 @@ Contacts
 <tr>
     <td>E-mail:</td>
     <td>asherikov {at} yandex.com</td>
-</tr>
-<tr>
-    <td>XMPP:</td>
-    <td>asherikov {at} jabber.ru</td>
 </tr>
 </table>
 
