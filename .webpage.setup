@@ -1,10 +1,10 @@
 #!/usr/local/bin/perl
 #
 # Setup file for ikiwiki.
-# 
+#
 # Passing this to ikiwiki --setup will make ikiwiki generate
 # wrappers and build the wiki.
-# 
+#
 # Remember to re-run ikiwiki --setup any time you edit this file.
 #
 # Requirements
@@ -14,7 +14,7 @@ use IkiWiki::Setup::Standard {
     # name of the wiki
     wikiname => 'Alexander Sherikov',
     # contact email for wiki
-#    adminemail => 'aleks@local.local',
+#    adminemail => '',
     # users who are wiki admins
 #    adminuser => [qw{aleks}],
     # users who are banned from the wiki
@@ -25,8 +25,6 @@ use IkiWiki::Setup::Standard {
     destdir => '../asherikov.github.com',
     # base url to the wiki
     url => 'http://asherikov.github.com',
-    # url to the ikiwiki.cgi
-#    cgiurl => 'http://local.local/~aleks/webpage/ikiwiki.cgi',
     # filename of cgi wrapper to generate
 #    cgi_wrapper => '/home/aleks/public_html/webpage/ikiwiki.cgi',
     # mode for cgi_wrapper (can safely be made suid)

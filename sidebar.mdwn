@@ -1,9 +1,4 @@
 **Sitemap**
 
-[[!map  pages="(projects or projects/*) or index or software/*" show=description]]
-
-
-**Contact**
-
-Alexander Sherikov  
-*asherikov {at} yandex.com*
+[[!map  pages="index" show=description]]
+[[!map  pages="pages/*" show=description]]

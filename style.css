@@ -213,7 +213,7 @@ div.recentchanges {
  margin-bottom: 4px;
  margin-top: -1px;
  padding: 0ex 2ex;
- background: #eee; 
+ background: #eee;
  border: 1px solid black;
  color: black !important;
 }
@@ -339,10 +339,10 @@ legend {
  float: left;
  margin: 2px 0;
 }
-label.block {    
- display: block;   
+label.block {
+ display: block;
 }
-label.inline {    
+label.inline {
  display: inline;
 }
 input#openid_identifier {
@@ -523,11 +523,12 @@ pre {
 }
 
 body {
- margin: 0;
+ margin: auto;
  padding: 0;
  font-family: sans-serif;
  color: black;
  background: white;
+ width: 1000px;
 }
 
 .pageheader {

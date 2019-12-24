@@ -1,0 +1,120 @@
+[[!meta title="Publications"]]
+[[!meta description="Publications"]]
+
+
+Publications
+============
+
+My [[Google Scholar page|https://scholar.google.fr/citations?user=yVOvGd0AAAAJ&hl=en&oi=ao]].
+
+
+Under review
+------------
+
+* [[!template  id=bibitem.tmpl
+    key="Dimitrov2015preprint"
+    pdf="https://hal.inria.fr/hal-01183003/file/drdv_tro.pdf"
+    more="https://hal.inria.fr/hal-01183003"]]
+
+
+Journals & Conferences
+----------------------
+### 2019
+
+* [[!template  id=bibitem.tmpl
+    key="Agravante2019tro"
+    pdf="https://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154/file/tro-agravante_revised.pdf"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/lHG4AbAvt_4"
+    more="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154"]]
+
+
+### 2017
+
+* [[!template  id=bibitem.tmpl
+    key="Wieber2017gnfm"
+    pdf="https://hal.inria.fr/hal-01418462/document"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/hxSb5K_IUZ8"]]
+
+
+### 2016
+
+* [[!template  id=bibitem.tmpl
+    key="alHomsi2016icra"
+    pdf="https://hal.inria.fr/hal-01418396/document"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Agravante2016icra"
+    pdf="https://hal.archives-ouvertes.fr/hal-01274791/file/2016-icra-agravante.pdf"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/btAwS9RDcSA"
+    more="https://hal.archives-ouvertes.fr/hal-01274791"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Serra2016humanoids"
+    pdf="https://hal.inria.fr/hal-01418402/document"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/NSDiSRPnxZ0"
+    video_link="http://drdv.net/video/humanoids16_2.mp4"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Bohorquez2016humanoids"
+    pdf="https://hal.inria.fr/hal-01418340/document"
+    video="yes"
+    video_link="http://drdv.net/video/humanoids16_1.mp4"]]
+
+
+### 2015
+
+* [[!template  id=bibitem.tmpl
+    key="Andreasson2015ram"
+    pdf="http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&tp=&arnumber=7059356"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Brasseur2015humanoids"
+    pdf="https://hal.inria.fr/hal-01418355/document"
+    video="yes"
+    video_link="http://drdv.net/video/humanoids15_2.mp4"
+    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X1gMyV-C-KlEhcImIG0-nC"]]
+
+* [[!template  id=bibitem.tmpl
+    key="Sherikov2015humanoids"
+    pdf="https://hal.inria.fr/hal-01418358/document"
+    video="yes"
+    video_link="http://drdv.net/video/humanoids15_1.mp4"
+    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X8e6pyybmLv2RP-Y5Mynwo"]]
+
+
+### 2014
+
+* [[!template  id=bibitem.tmpl
+    key="Sherikov2014humanoids"
+    pdf="https://hal.inria.fr/hal-01418363/document"
+    video="yes"
+    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9XlnWY9EhExe-t2Kp537JLn"
+    video_link="http://drdv.net/video/humanoids14.mp4"]]
+
+
+### 2011
+
+* [[!template  id=bibitem.tmpl
+    key="Dimitrov2011iros"
+    pdf="http://drdv.net/pdf/iros11_1.pdf"
+    more="Projects/naowalk"]]
+
+
+
+Theses
+------
+
+* PhD: [[!template id=bibitem.tmpl
+    key="Sherikov2016phd"
+    pdf="files/asherikov-phd-thesis.pdf"]]
+
+* MS: [[!template id=bibitem.tmpl
+    key="Sherikov2012master"
+    pdf="files/asherikov-ms-thesis.pdf"
+    video="yes"
+    video_youtube="http://www.youtube.com/embed/videoseries?list=PL93B16B2910EC7F3D&amp;hl=en_US"
+    more="Projects/naowalk"]]

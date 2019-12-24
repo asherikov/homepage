@@ -1,30 +1,23 @@
 [[!meta title="Alexander Sherikov"]]
-[[!meta description="Home"]]
-
-[[!toc levels=2 startlevel=1]]
+[[!meta description="About"]]
+<!-- [[!toc levels=2 startlevel=1]] -->
 
 
 About
 =====
 
-Currently, I am a software/control engineer at [[PAL Robotics|http://pal-robotics.com/en/home/]].
-I obtained my PhD and MS degrees in control of humanoid robots under
-supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]
-and [[Dimitar Dimitrov|http://drdv.net/index.html]] respectively. My general
-interests are in robotics, control, and optimization.
-
-Further information on my working experience can be found on my [[Linkedin
-page|http://www.linkedin.com/in/asherikov]].
+Hi there! I am a robotics software developer with a PhD and MS degrees in
+control of humanoid robots. This page is an index to my past and present
+activities related to research and software development.
 
 
 Contacts
 --------
 
 <table>
-<tr>
-    <td>E-mail:</td>
-    <td>asherikov {at} yandex.com</td>
-</tr>
+    <tr> <td>E-mail:</td>       <td>asherikov {at} yandex.com</td> </tr>
+    <tr> <td>GitHub:</td>       <td>[[http://github.com/asherikov]]</td> </tr>
+    <tr> <td>LinkedIn:</td>     <td>[[http://www.linkedin.com/in/asherikov]]</td> </tr>
 </table>
 
 ---
@@ -32,114 +25,37 @@ Contacts
 Publications
 ============
 
-My [[Google Scholar page|https://scholar.google.fr/citations?user=yVOvGd0AAAAJ&hl=en&oi=ao]].
+* Complete list of my publications is available [[here|pages/publications]] and on my
+  [[Google Scholar page|https://scholar.google.fr/citations?user=yVOvGd0AAAAJ&hl=en&oi=ao]].
+
+* PhD thesis, under supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]: <br />
+    [[!template id=bibitem.tmpl
+        key="Sherikov2016phd"
+        pdf="files/asherikov-phd-thesis.pdf"
+        more="https://github.com/asherikov/phd-thesis"]]
+
+* MS thesis, under supervision of [[Dimitar Dimitrov|http://drdv.net/index.html]]: <br/>
+    [[!template id=bibitem.tmpl
+        key="Sherikov2012master"
+        pdf="files/asherikov-ms-thesis.pdf"
+        video="yes"
+        video_youtube="http://www.youtube.com/embed/videoseries?list=PL93B16B2910EC7F3D&amp;hl=en_US"
+        more="Projects/naowalk"]]
 
 
-Under review
-------------
+Software
+========
 
-* [[!template  id=bibitem.tmpl
-    key="Dimitrov2015preprint"
-    pdf="https://hal.inria.fr/hal-01183003/file/drdv_tro.pdf"
-    more="https://hal.inria.fr/hal-01183003"]]
+* Nao robot walking module and a specialized QP solver implemented during my work
+  on my MS thesis are described in detail on a separate [[page|Projects/naowalk]].
 
-* [[!template  id=bibitem.tmpl
-    key="Agravante2016preprint"
-    pdf="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154/file/2015-ijrr-agravante.pdf"
-    video="yes"
-    video_youtube="https://www.youtube.com/embed/VYwZU4_7sMA"
-    more="http://hal-lirmm.ccsd.cnrs.fr/lirmm-01311154"]]
+* [[HUMOTO | https://bip-team.github.io/humoto/]]: optimization framework for
+  robot control. I've been working on this project during my employment as a
+  research engineer at INRIA, France.
 
+* [[qpmad | https://asherikov.github.io/qpmad/]]: Eigen-based, header-only QP
+  solver for embedded optimization in robot control.
 
-Journals & Conferences
-----------------------
-
-### 2017
-
-* [[!template  id=bibitem.tmpl
-    key="Wieber2017gnfm"
-    pdf="https://hal.inria.fr/hal-01418462/document"
-    video="yes"
-    video_youtube="https://www.youtube.com/embed/hxSb5K_IUZ8"]]
-
-
-### 2016
-
-* [[!template  id=bibitem.tmpl
-    key="alHomsi2016icra"
-    pdf="https://hal.inria.fr/hal-01418396/document"]]
-
-* [[!template  id=bibitem.tmpl
-    key="Agravante2016icra"
-    pdf="https://hal.archives-ouvertes.fr/hal-01274791/file/2016-icra-agravante.pdf"
-    video="yes"
-    video_youtube="https://www.youtube.com/embed/btAwS9RDcSA"
-    more="https://hal.archives-ouvertes.fr/hal-01274791"]]
-
-* [[!template  id=bibitem.tmpl
-    key="Serra2016humanoids"
-    pdf="https://hal.inria.fr/hal-01418402/document"
-    video="yes"
-    video_youtube="https://www.youtube.com/embed/NSDiSRPnxZ0"
-    video_link="http://drdv.net/video/humanoids16_2.mp4"]]
-
-* [[!template  id=bibitem.tmpl
-    key="Bohorquez2016humanoids"
-    pdf="https://hal.inria.fr/hal-01418340/document"
-    video="yes"
-    video_link="http://drdv.net/video/humanoids16_1.mp4"]]
-
-
-### 2015
-
-* [[!template  id=bibitem.tmpl
-    key="Andreasson2015ram"
-    pdf="http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&tp=&arnumber=7059356"]]
-
-* [[!template  id=bibitem.tmpl
-    key="Brasseur2015humanoids"
-    pdf="https://hal.inria.fr/hal-01418355/document"
-    video="yes"
-    video_link="http://drdv.net/video/humanoids15_2.mp4"
-    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X1gMyV-C-KlEhcImIG0-nC"]]
-
-* [[!template  id=bibitem.tmpl
-    key="Sherikov2015humanoids"
-    pdf="https://hal.inria.fr/hal-01418358/document"
-    video="yes"
-    video_link="http://drdv.net/video/humanoids15_1.mp4"
-    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9X8e6pyybmLv2RP-Y5Mynwo"]]
-
-
-### 2014
-
-* [[!template  id=bibitem.tmpl
-    key="Sherikov2014humanoids"
-    pdf="https://hal.inria.fr/hal-01418363/document"
-    video="yes"
-    video_youtube="https://www.youtube.com/embed/videoseries?list=PLd5NT08usW9XlnWY9EhExe-t2Kp537JLn"
-    video_link="http://drdv.net/video/humanoids14.mp4"]]
-
-
-### 2011
-
-* [[!template  id=bibitem.tmpl
-    key="Dimitrov2011iros"
-    pdf="http://drdv.net/pdf/iros11_1.pdf"
-    more="Projects/naowalk"]]
-
-
-
-Theses
-------
-
-* PhD: [[!template id=bibitem.tmpl
-    key="Sherikov2016phd"
-    pdf="files/asherikov-phd-thesis.pdf"]]
-
-* MS: [[!template id=bibitem.tmpl
-    key="Sherikov2012master"
-    pdf="files/asherikov-ms-thesis.pdf"
-    video="yes"
-    video_youtube="http://www.youtube.com/embed/videoseries?list=PL93B16B2910EC7F3D&amp;hl=en_US"
-    more="Projects/naowalk"]]
+* [[ariles | https://asherikov.github.io/ariles/]]: C++ metaprogramming library
+  with focus on serialization and configuration (YAML, ROS parameter server,
+  XML, etc).
