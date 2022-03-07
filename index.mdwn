@@ -15,7 +15,7 @@ Contacts
 --------
 
 <table>
-    <tr> <td>E-mail:</td>       <td>asherikov {at} yandex.com</td> </tr>
+    <tr> <td>E-mail:</td>       <td>alexander {at} sherikov.net</td> </tr>
     <tr> <td>GitHub:</td>       <td>[[http://github.com/asherikov]]</td> </tr>
     <tr> <td>LinkedIn:</td>     <td>[[http://www.linkedin.com/in/asherikov]]</td> </tr>
 </table>
@@ -31,13 +31,13 @@ Publications
 * PhD thesis, under supervision of [[Pierre-Brice Wieber|http://www.inrialpes.fr/bipop/people/wieber/]]: <br />
     [[!template id=bibitem.tmpl
         key="Sherikov2016phd"
-        pdf="files/asherikov-phd-thesis.pdf"
+        pdf="https://github.com/asherikov/phd-thesis/raw/master/asherikov-phd-thesis.pdf"
         more="https://github.com/asherikov/phd-thesis"]]
 
 * MS thesis, under supervision of [[Dimitar Dimitrov|http://drdv.net/index.html]]: <br/>
     [[!template id=bibitem.tmpl
         key="Sherikov2012master"
-        pdf="files/asherikov-ms-thesis.pdf"
+        pdf="https://github.com/asherikov/ms-thesis/raw/master/asherikov-ms-thesis.pdf"
         video="yes"
         video_youtube="http://www.youtube.com/embed/videoseries?list=PL93B16B2910EC7F3D&amp;hl=en_US"
         more="Projects/naowalk"]]
@@ -53,9 +53,9 @@ Software
   robot control. I've been working on this project during my employment as a
   research engineer at INRIA, France.
 
-* [[qpmad | https://asherikov.github.io/qpmad/]]: Eigen-based, header-only QP
+* [[qpmad | https://sherikov.net/qpmad/]]: Eigen-based, header-only QP
   solver for embedded optimization in robot control.
 
-* [[ariles | https://asherikov.github.io/ariles/]]: C++ metaprogramming library
+* [[ariles | https://sherikov.net/ariles/]]: C++ metaprogramming library
   with focus on serialization and configuration (YAML, ROS parameter server,
   XML, etc).

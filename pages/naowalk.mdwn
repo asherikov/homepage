@@ -18,7 +18,7 @@ The development has been performed within the
 at &Ouml;rebro University under the supervision of [[Dimitar Dimitrov|http://www.drdv.net]].
 
 All related derivations, a more detailed description of results and implementation
-can be found in my [[Master's thesis|http://asherikov.github.com/files/asherikov-ms-thesis.pdf]].
+can be found in my [[Master's thesis|https://github.com/asherikov/ms-thesis/raw/master/asherikov-ms-thesis.pdf]].
 
 
 ---
@@ -26,12 +26,12 @@ can be found in my [[Master's thesis|http://asherikov.github.com/files/asherikov
 
 * The Nao module:  
 > Sources <http://github.com/asherikov/oru_walk_module>  
-> Documentation <http://asherikov.github.com/oru_walk_module>
+> Documentation <http://sherikov.net/oru_walk_module>
 
 
 * The specialized MPC solver, that produces trajectory for a center of mass:
 > Sources <http://github.com/asherikov/smpc_solver>  
-> Documentation <http://asherikov.github.com/smpc_solver>
+> Documentation <http://sherikov.net/smpc_solver>
 
 
 * The inverse kinematics library:
@@ -111,7 +111,7 @@ foot, i.e. full step length is 0.08);
     - length of a sampling interval = 40 ms.
 
 > Since we solve IK twice (the reason behind this is explained 
-[[here|http://asherikov.github.com/oru_walk_module/pArch.html#pIGM]]) we need to get
+[[here|http://sherikov.net/oru_walk_module/pArch.html#pIGM]]) we need to get
 positions of CoM at 20 ms and 40 ms (one and two control loops respectively). 
 Therefore we set the length of the first two sampling intervals in a preview window 
 to 20 ms.

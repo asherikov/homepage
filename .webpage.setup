@@ -22,9 +22,9 @@ use IkiWiki::Setup::Standard {
     # where the source of the wiki is located
     srcdir => './',
     # where to build the wiki
-    destdir => '../asherikov.github.com',
+    destdir => '../asherikov.github.io',
     # base url to the wiki
-    url => 'http://asherikov.github.com',
+    url => 'http://www.asherikov.net',
     # filename of cgi wrapper to generate
 #    cgi_wrapper => '/home/aleks/public_html/webpage/ikiwiki.cgi',
     # mode for cgi_wrapper (can safely be made suid)

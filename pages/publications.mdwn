@@ -110,11 +110,12 @@ Theses
 
 * PhD: [[!template id=bibitem.tmpl
     key="Sherikov2016phd"
-    pdf="files/asherikov-phd-thesis.pdf"]]
+    pdf="https://github.com/asherikov/phd-thesis/raw/master/asherikov-phd-thesis.pdf"
+    more="https://github.com/asherikov/phd-thesis"]]
 
 * MS: [[!template id=bibitem.tmpl
     key="Sherikov2012master"
-    pdf="files/asherikov-ms-thesis.pdf"
+    pdf="https://github.com/asherikov/ms-thesis/raw/master/asherikov-ms-thesis.pdf"
     video="yes"
     video_youtube="http://www.youtube.com/embed/videoseries?list=PL93B16B2910EC7F3D&amp;hl=en_US"
     more="Projects/naowalk"]]
